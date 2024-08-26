@@ -1,0 +1,13 @@
+.container{
+    width:50%;
+    background-color: blue;
+    display:flex;
+    flex-direction: row;
+    align-items: flex-end;
+
+}
+.item{
+    background-color: aliceblue;
+    margin: 5px;
+    padding:5px;
+}
